@@ -1,28 +1,38 @@
 body {
-	background-color:gray;
 	color:white;
-	border:1px solid black;
-	margin:50px;
-	padding:30px;
+	border:2px solid white;
+	margin:10px;
+	padding:10px;
+	background-color:#A52A2A;
 }
 
 h1 {
-	font-style:italic;
-	font-family:'Tangerine', serif;
-	text-align:center;
+	font-family:Helvetica;
+	text-align:left;
 	color:white;
 	border:1px solid black;
-	margin:20px;
-	padding:20px;
 }
 
 h2 {
-	text-transform:uppercase;
+	border:10px solid white;
+	margin:10px;
+	padding:10px;
+	color:white;
+}
+
+h3 {
+	color:gray;
+}
+
+h4 {
+	margin:10px;
+	padding:50px;
+	text-align: right;
 }
 
 nav {
 	text-align:center;
-	color:white;
+	color:black;
 }
 
 a {
@@ -30,17 +40,20 @@ a {
 }
 
 p {
-	color:#A52A2A;
+	color:white;
 	font-size:120%;
+	text-align: center;
 }
 
 footer {
 	text-align:center;
+	font-
 }
 
 li {
-	color:white;
+	color:black;
 	font-style:italic;
 }
+
 
 
