@@ -1,0 +1,46 @@
+body {
+	background-color:gray;
+	color:white;
+	border:1px solid black;
+	margin:50px;
+	padding:30px;
+}
+
+h1 {
+	font-style:italic;
+	font-family:'Tangerine', serif;
+	text-align:center;
+	color:white;
+	border:1px solid black;
+	margin:20px;
+	padding:20px;
+}
+
+h2 {
+	text-transform:uppercase;
+}
+
+nav {
+	text-align:center;
+	color:white;
+}
+
+a {
+	color:black;
+}
+
+p {
+	color:#A52A2A;
+	font-size:120%;
+}
+
+footer {
+	text-align:center;
+}
+
+li {
+	color:white;
+	font-style:italic;
+}
+
+
