@@ -14,14 +14,15 @@ h1 {
 }
 
 h2 {
-	border:10px solid white;
-	margin:10px;
-	padding:10px;
+	border:1px solid white;
+	margin:1px;
+	padding:1px;
 	color:white;
 }
 
 h3 {
 	color:gray;
+	padding:10px;
 }
 
 h4 {
@@ -42,7 +43,7 @@ a {
 p {
 	color:white;
 	font-size:120%;
-	text-align: center;
+	text-align: left;
 }
 
 footer {
@@ -54,6 +55,11 @@ li {
 	color:black;
 	font-style:italic;
 }
-
+.textWrap{
+            float:left;          
+        }
+        .textWrap p{
+            padding-top:10px;
+        }
 
 
